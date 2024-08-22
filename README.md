@@ -145,7 +145,16 @@ The project leverages Django's robust framework to manage complex relationships 
 
 ### Requirements
 Ensure you have the following packages installed (as listed in `requirements.txt`):
-- Django
-- [Any other packages you used]
+- asgiref==3.2.10
+- Django==3.0.7
+- django-extensions==3.0.2
+- graphviz==0.14
+- mysql-connector-python==8.0.20
+- protobuf==3.12.2
+- pydot==1.4.1
+- pyparsing==2.4.7
+- pytz==2020.1
+- six==1.15.0
+- sqlparse==0.3.1
 
 This Student Management System is a comprehensive tool designed to facilitate administrative and academic processes within an educational institution. It highlights the practical application of Django and JavaScript in building dynamic web applications.
